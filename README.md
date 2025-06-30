@@ -1,7 +1,5 @@
 ## Explainable AI
 
-![Python](https://img.shields.io/badge/Python-Django%20%7C%20NLP%20%7C%20AI-green?logo=python)
-![XAI](https://img.shields.io/badge/Explainable%20AI-Interpretability-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
